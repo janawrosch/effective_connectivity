@@ -10,11 +10,15 @@ A Fluorescence trace extractation
   Output: Fluorescence traces for each detected region of interest
   
   
+  
+  
 B Spike estimation
 
   Input: Fluorescence traces for each detected region of interest
   
   Output: Binary spike time traces for each region of interest
+  
+  
   
   
 C Network reconstruction
@@ -24,6 +28,8 @@ C Network reconstruction
   Output: Reconstructed effective network
   
   
+  
+  
 D Network topology analysis
 
   Input: Reconstructed effective network
@@ -31,11 +37,15 @@ D Network topology analysis
   Output: Network topology parameter
   
   
+  
+  
 D2 Network activity analysis
 
   Input: Binary spike time traces for each region of interest
   
   Output: Network activity parameter
+  
+  
   
   
 E Compare results of different experimental conditions
